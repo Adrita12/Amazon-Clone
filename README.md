@@ -4,6 +4,9 @@ This project showcases an HTML and CSS clone of an Amazon-like webpage, mimickin
 
 ## Preview
 
+![image](https://github.com/Adrita12/Amazon-Clone/assets/98798926/1710942b-adfa-4b4f-9405-57650754d553)
+![image](https://github.com/Adrita12/Amazon-Clone/assets/98798926/d81b5040-bc9b-403c-bf58-b6f46993c0a0)
+
 
 
 ## Features
